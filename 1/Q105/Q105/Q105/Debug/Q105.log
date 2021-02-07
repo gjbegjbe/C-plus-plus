@@ -1,0 +1,9 @@
+﻿  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.15.26730 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ZI /JMC /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Q105.cpp
+  
+  Q105.cpp
+e:\学习\04大二下\c++高级程序设计\作业\1\q105\q105\q105\q105.cpp(11): error C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+e:\学习\04大二下\c++高级程序设计\作业\1\q105\q105\q105\q105.cpp(15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\学习\04大二下\c++高级程序设计\作业\1\q105\q105\q105\q105.cpp(16): error C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
